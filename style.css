@@ -1,0 +1,101 @@
+
+body {
+    background-color: rgb(23, 13, 72);
+}
+
+.page2 {
+    color: rgb(128, 182, 219);
+    font-size: 70px; 
+    text-align: center;
+    font-family:'Oswald' , serif;
+
+}
+
+.p1{
+    color: rgb(128, 182, 219);
+    font-size: 70px; 
+    font-family:'Oswald' , serif;
+}
+
+.p2{ 
+    color: rgb(128, 182, 219);
+    font-size: 30px; 
+    font-family:'Oswald' , serif;
+}
+
+.secondary-images {
+    display: flex;
+    justify-content: center;
+    gap: 40px;   
+    margin-top: 20px ;
+}
+
+.small-img {
+    width: 250px;
+}
+
+.three-images {
+    display: flex;
+    justify-content: center;
+    gap: 40px;   
+    margin-top: 50px ;
+}
+
+.new-img {
+    width: 250px;
+}
+
+.fourth-images {
+    display: flex;
+    justify-content: center;
+    gap: 40px;   
+    margin-top: 50px ;
+}
+
+.rebus-img {
+    width: 250px;
+}
+
+.three2-images {
+    display: flex;
+    justify-content: center;
+    gap: 40px;   
+    margin-top: 50px ;
+}
+
+.lieu-img {
+    width: 200px;
+}
+
+.fifth-images {
+    display: flex;
+    justify-content: center;
+    gap: 40px;   
+    margin-top: 50px ;
+}
+
+.rebus2-img {
+    width: 250px;
+}
+
+.three3-images {
+    display: flex;
+    justify-content: center;
+    gap: 40px;   
+    margin-top: 50px ;
+}
+
+.tueur-img {
+    width: 200px;
+}
+
+.image-block {
+    text-align: center;
+}
+
+.caption {
+    margin-top: 30px;
+    color: rgb(128, 182, 219);
+    font-size: 70px; 
+    font-family:'Oswald' , serif;
+}
